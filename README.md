@@ -12,10 +12,10 @@
 - what you can interpret from the names A2, A3, A4 and soon?
   1. the first letter of the name (e.g. A, B, E, G) denotes the pitch name
   2. the number preceding the letter denotes the octave to be played
-- the notes folders (e.g. A2, A3, A4,....) contain files with name '{note} {f/n} {number}.wav'
+- the notes folders (e.g. A2, A3, A4,....) contain files with name '{note} {f/p} {number}.wav'
   1. An 'f' denotes that the string was plucked with a finger or thumb.
-  2. An 'n' denotes that the string was plucked with a nail.
-  3. The number at the end is the count of {note}\_{f/n}.
+  2. An 'p' denotes that the string was plucked with a pick.
+  3. The number at the end is the count of {note}\_{f/p}.
 
 ## Dataset Creation
 
