@@ -71,6 +71,12 @@ waveform, label = ds[0]   # label: 0 = intune, 1 = detune
 See `dataset.py` for label options (`note`, `pitch_class`) and passing a
 `transform` for resampling/feature extraction.
 
+## Demo
+
+Watch a short demo showing example notes and the intune vs detune recordings:
+
+[YouTube demo](https://youtu.be/RucSCyhLXqY)
+
 ## Dataset creation
 
 - Recorded on a Signature Gogos guitar with steel strings, in a quiet room,
