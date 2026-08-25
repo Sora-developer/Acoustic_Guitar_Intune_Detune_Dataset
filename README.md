@@ -1,6 +1,6 @@
 # Guitar Notes Dataset
 
-- This dataset consists of arround 446 acoustic guitar notes encompassing every possible note on a standard 6-string guitar up to the 16th fret
+- This dataset consists of arround 486 acoustic guitar notes encompassing every possible note on a standard 6-string guitar up to the 16th fret
 - The notes range from D2 being the lowest note, up to Gsharp5 being the highest, with a frequency range of 73.42 hZ to 830.61 hZ
 - Each recording is exactly 2 seconds in length at a 44.1 kHz sampling frequency and has been converted to mono format.
 
