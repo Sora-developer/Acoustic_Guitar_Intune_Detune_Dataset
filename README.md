@@ -14,6 +14,7 @@ to Gsharp5 (830.61 Hz). Each recording is 2 seconds, 44.1 kHz, mono.
 ├── generate_metadata.py  # regenerates metadata.csv from the folder structure
 ├── dataset.py            # load_dataset() DataFrame helper + PyTorch Dataset
 ├── acoustic-guitar-data-v.ipynb  # EDA: waveforms, FFT, spectrograms, MFCCs
+├── requirements.txt      # dependencies for dataset.py / generate_metadata.py / notebook
 └── LICENSE               # CC BY 4.0
 ```
 
@@ -51,6 +52,10 @@ python generate_metadata.py
 ```
 
 ## Usage
+
+```bash
+pip install -r requirements.txt
+```
 
 ```python
 from dataset import load_dataset, GuitarTuningDataset
